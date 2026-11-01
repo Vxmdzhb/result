@@ -1,0 +1,20 @@
+{
+    "name": "astrx/result",
+    "description": "Typed results and diagnostics: Result<T>, Diagnostics and the collector they drain into.",
+    "license": "LicenseRef-DoWhatever",
+    "type": "library",
+    "keywords": [
+        "astrx",
+        "no-javascript",
+        "server-rendered"
+    ],
+    "homepage": "https://github.com/Vxmdzhb/result",
+    "require": {
+        "php": ">=8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "AstrX\\Result\\": ""
+        }
+    }
+}
